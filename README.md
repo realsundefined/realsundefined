@@ -3,71 +3,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000,100:00fff0&height=200&section=header"/>
 
 </div>
-<!-- <h2 align="center">⚡ You Need Readme Now! ⚡</h2>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=realsundefined&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</div>
+<!-- <h2 align="center">⚡ Hi there! 👾 I'm realsundefined ⚡</h2> -->
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer;Kick+Streamer;Community+Driven+Projects;Clean+%26+Modular+Code" />
-</p>  -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi+there!;I'm+RealSundefined;Software+Engineer;Clean+%26+Modular+Code" />
+</p>  
 
 ## 🧠 About Me
 
-```txt
-I am a developer focused on building scalable, automation-driven systems with a strong emphasis on community platforms.  
-My work primarily involves Discord bot development, stream automation, and clean backend architecture.  
-I prioritize modular design, maintainability, and performance in every project.
-```
+
+I'm a passionate developer based in Turkey/Cyprus, currently contributing my skills at AzalSoft. I thrive on building robust, scalable, and innovative software solutions that make an impact. My journey in tech is driven by curiosity and a commitment to continuous learning, always seeking new challenges and opportunities to grow.
+
+Whether it's crafting elegant front-end experiences, optimizing back-end performance, or diving deep into cloud infrastructure, I'm always excited to explore the cutting edge of technology. I believe in the power of clean code, collaborative environments, and community contributions.
 
 ---
 
+## 🎯 Current Focus
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-   🔭 Working on: **** 
+-   🌱 Learning: **Advanced GoLang Patterns & Kubernetes Orchestration**
+-   👯 Looking to collaborate on: **Open Source Projects with a focus on web development or cloud automation.**
+-   💬 Ask me about: **Full-Stack Development, Cloud Computing (AWS), or effective project management.**
+-   ⚡ Fun fact: **I once debugged a critical production issue while on a transatlantic flight with limited internet!** 
 
 ---
-
-
 
 ## 🛠️ Technology Arsenal
 
@@ -104,44 +67,6 @@ My toolkit is constantly evolving, but here are some technologies I frequently w
 <!-- TODO: Add your databases -->
 
 ---
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 📊 GitHub Analytics Dashboard
